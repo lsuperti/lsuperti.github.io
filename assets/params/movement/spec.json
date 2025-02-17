@@ -1,0 +1,81 @@
+{
+    "01": {
+        "min": {
+            "left": -15,
+            "right": 15,
+            "top": -15,
+            "bottom": 15
+        },
+
+        "max": {
+            "left": -35,
+            "right": 35,
+            "top": -35,
+            "bottom": 35
+        }
+    },
+
+    "02": {
+        "min": {
+            "left": -65,
+            "right": 65,
+            "top": -15,
+            "bottom": 15
+        },
+
+        "max": {
+            "left": -85,
+            "right": 85,
+            "top": -35,
+            "bottom": 35
+        }
+    },
+
+    "03": {
+        "min": {
+            "left": -115,
+            "right": 115,
+            "top": -15,
+            "bottom": 15
+        },
+
+        "max": {
+            "left": -135,
+            "right": 135,
+            "top": -35,
+            "bottom": 35
+        }
+    },
+    
+    "06": {
+        "min": {
+            "left": 50,
+            "right": 250,
+            "top": -35,
+            "bottom": 35
+        },
+
+        "max": {
+            "left": -50,
+            "right": 350,
+            "top": -135,
+            "bottom": 135
+        }
+    },
+    
+    "07": {
+        "min": {
+            "left": 50,
+            "right": 250,
+            "top": -35,
+            "bottom": 35
+        },
+
+        "max": {
+            "left": -50,
+            "right": 350,
+            "top": -135,
+            "bottom": 135
+        }
+    }
+}
