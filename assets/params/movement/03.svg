@@ -3,8 +3,8 @@
 
 <svg
    width="270"
-   height="70"
-   viewBox="0 0 270.00001 70.000001"
+   height="120"
+   viewBox="0 0 270.00001 120"
    version="1.1"
    id="svg10039"
    xml:space="preserve"
@@ -12,7 +12,7 @@
    xmlns:svg="http://www.w3.org/2000/svg"><defs
      id="defs10036" /><g
      id="layer1"
-     transform="translate(1.8956652,-70.753627)"><circle
+     transform="translate(1.8956702,-20.753623)"><circle
        style="opacity:1;fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:25.5717;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.5"
        id="path4"
        cx="33.104347"
@@ -21,7 +21,7 @@
        style="opacity:1;fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:25.5717;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.5"
        id="circle1"
        cx="133.10434"
-       cy="105.75362"
+       cy="55.753616"
        r="25.000004" /><circle
        style="opacity:1;fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:25.5717;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.5"
        id="circle7"

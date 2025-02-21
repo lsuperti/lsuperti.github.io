@@ -35,15 +35,47 @@
         "min": {
             "left": -115,
             "right": 115,
-            "top": -15,
-            "bottom": 15
+            "top": -40,
+            "bottom": 40
         },
 
         "max": {
             "left": -135,
             "right": 135,
+            "top": -60,
+            "bottom": 60
+        }
+    },
+
+    "04": {
+        "min": {
+            "left": -25,
+            "right": 25,
             "top": -35,
             "bottom": 35
+        },
+
+        "max": {
+            "left": -65,
+            "right": 65,
+            "top": -65,
+            "bottom": 65
+        }
+    },
+
+    "05": {
+        "min": {
+            "left": -90,
+            "right": 90,
+            "top": -10,
+            "bottom": 10
+        },
+
+        "max": {
+            "left": -160,
+            "right": 160,
+            "top": -70,
+            "bottom": 70
         }
     },
     
@@ -81,49 +113,97 @@
     
     "08": {
         "min": {
-            "left": 50,
-            "right": 250,
-            "top": -35,
-            "bottom": 35
+            "left": -175,
+            "right": 35,
+            "top": 50,
+            "bottom": 250
         },
 
         "max": {
-            "left": -50,
-            "right": 350,
-            "top": -135,
-            "bottom": 135
+            "left": -275,
+            "right": 135,
+            "top": -50,
+            "bottom": 350
         }
     },
     
     "09": {
         "min": {
+            "left": -35,
+            "right": 175,
+            "top": 50,
+            "bottom": 250
+        },
+
+        "max": {
+            "left": -135,
+            "right": 275,
+            "top": -50,
+            "bottom": 350
+        }
+    },
+
+    "10": {
+        "min": {
+            "left": -175,
+            "right": 35,
+            "top": 100,
+            "bottom": 250
+        },
+
+        "max": {
+            "left": -275,
+            "right": 135,
+            "top": -100,
+            "bottom": 350
+        }
+    },
+
+    "11": {
+        "min": {
+            "left": -35,
+            "right": 175,
+            "top": 100,
+            "bottom": 250
+        },
+
+        "max": {
+            "left": -135,
+            "right": 275,
+            "top": -100,
+            "bottom": 350
+        }
+    },
+
+    "12": {
+        "min": {
             "left": 50,
-            "right": 250,
+            "right": 325,
             "top": -35,
             "bottom": 35
         },
 
         "max": {
             "left": -50,
-            "right": 350,
+            "right": 425,
             "top": -135,
             "bottom": 135
         }
     },
 
-    "10": {
+    "13": {
         "min": {
-            "left": 50,
-            "right": 250,
-            "top": -35,
-            "bottom": 175
+            "left": -90,
+            "right": 90,
+            "top": -95,
+            "bottom": 230
         },
 
         "max": {
-            "left": -50,
-            "right": 350,
-            "top": -135,
-            "bottom": 275
+            "left": -190,
+            "right": 190,
+            "top": -195,
+            "bottom": 330
         }
     }
 }
