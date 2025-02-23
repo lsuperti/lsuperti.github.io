@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="585"
-   height="600"
-   viewBox="0 0 585 600"
+   width="520"
+   height="800"
+   viewBox="0 0 520 800"
    version="1.1"
    id="svg1"
    xml:space="preserve"
@@ -12,10 +12,18 @@
    xmlns:svg="http://www.w3.org/2000/svg"><defs
      id="defs1" /><g
      id="layer1"
-     transform="translate(140,205)"><path
-       id="path1"
-       style="color:#000000;opacity:1;fill:#000000;fill-rule:evenodd;stroke-width:25;stroke-dasharray:none"
-       d="m 194.99704,-155.00004 c -57.85625,0 -108.261781,41.84425 -143.503208,105.278893 C 16.252396,13.713496 -5.00004,99.928511 -5.00004,195.00253 -5.00004,248.66126 1.7763199,299.49 14.009635,345 H 40.06615 C 27.333975,300.16219 20.001794,249.15286 20.001794,195.00253 c 0,-91.32099 20.721782,-173.863572 53.341539,-232.579187 32.619757,-58.71562 75.957267,-92.421523 121.653707,-92.421523 45.69643,0 89.03982,33.705903 121.65957,92.421523 32.61975,58.715615 53.34154,141.258197 53.34154,232.579187 0,54.15033 -7.33218,105.15966 -20.06435,149.99747 h 26.05846 C 388.22557,299.49 395,248.66126 395,195.00253 395,99.928511 373.74952,13.713496 338.50807,-49.721147 303.26663,-113.15579 252.85329,-155.00004 194.99704,-155.00004 Z" /><path
-       style="opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:25;stroke-opacity:1"
-       d="m 23.758954,332.50001 h -116.259"
-       id="path5" /></g></svg>
+     transform="translate(64.999995,355)"><circle
+       style="fill:none;stroke:#000000;stroke-width:25;stroke-opacity:1"
+       id="path2"
+       cx="194.99998"
+       cy="194.99998"
+       r="187.50002" /><path
+       style="opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:25"
+       d="m 194.99999,-305.00006 2.7e-4,312.500021"
+       id="path11" /><path
+       style="opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:25"
+       d="M 304.38687,42.714829 390.85318,-280.00004"
+       id="path13" /><path
+       style="opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:25"
+       d="M -0.8531918,-280.00004 85.613107,42.714825"
+       id="path14" /></g></svg>

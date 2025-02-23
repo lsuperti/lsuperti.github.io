@@ -3,8 +3,8 @@
 
 <svg
    width="750"
-   height="500"
-   viewBox="0 0 750 500"
+   height="750"
+   viewBox="0 0 750 750"
    version="1.1"
    id="svg1"
    xml:space="preserve"
@@ -12,18 +12,15 @@
    xmlns:svg="http://www.w3.org/2000/svg"><defs
      id="defs1" /><g
      id="layer1"
-     transform="translate(305,54.999995)"><circle
+     transform="translate(315,315)"><circle
        style="fill:none;stroke:#000000;stroke-width:25;stroke-opacity:1"
-       id="path2"
-       cx="194.99998"
-       cy="194.99998"
-       r="187.50002" /><path
-       style="opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:25"
-       d="M 21.058768,265.00508 -213.92584,179.47768"
-       id="path18" /><path
-       style="opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:25"
-       d="M 42.70115,85.632146 -238.92584,148.06256"
-       id="path23" /><path
-       style="opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:25"
-       d="M 101.47551,32.499981 -263.92584,113.5075"
-       id="path24" /></g></svg>
+       id="path2-2"
+       cx="184.99867"
+       cy="185"
+       r="187.5" /><path
+       style="fill:none;stroke:#000000;stroke-width:22.9129"
+       d="M -265,184.99999 H -2.5000019"
+       id="path19-7" /><path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:25"
+       d="m 44.996628,60.277579 0.002,-319.027619 H -215.00128 v 99.99999"
+       id="path21-6" /></g></svg>

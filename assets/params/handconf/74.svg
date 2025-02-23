@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="700"
+   width="650"
    height="800"
-   viewBox="0 0 700 800"
+   viewBox="0 0 650 799.99999"
    version="1.1"
    id="svg1"
    xml:space="preserve"
@@ -12,24 +12,24 @@
    xmlns:svg="http://www.w3.org/2000/svg"><defs
      id="defs1" /><g
      id="layer1"
-     transform="translate(190,355)"><circle
+     transform="translate(175,355)"><circle
        style="fill:none;stroke:#000000;stroke-width:25;stroke-opacity:1"
        id="path2"
        cx="194.99998"
        cy="194.99998"
        r="187.50002" /><path
-       d="m 24.581648,-305.00007 -49.237083,8.68183 66.574285,377.561512 43.938109,-38.70332 z"
-       id="path11"
-       style="stroke-width:3.77953" /><path
+       style="opacity:1;fill:none;stroke:#000000;stroke-width:25"
+       d="M 63.749981,61.098202 12.421504,-230.00006"
+       id="path11" /><path
+       style="opacity:1;fill:none;stroke:#000000;stroke-width:50.0001;stroke-dasharray:none"
+       d="m 194.99999,-305.00007 2.7e-4,312.500037"
+       id="path12" /><path
        style="opacity:1;fill:none;stroke:#000000;stroke-width:25;stroke-dasharray:none"
-       d="M 260.62983,19.361195 326.99662,-280.00004"
-       id="path27" /><path
-       style="opacity:1;fill:none;stroke:#000000;stroke-width:25;stroke-dasharray:none"
-       d="M 348.12501,86.801676 449.2213,-130.00007"
-       id="path28" /><path
-       style="opacity:1;fill:none;stroke:#000000;stroke-width:25;stroke-dasharray:none"
-       d="M 195.00026,7.499957 -117.50004,-138.22132"
+       d="M 73.124979,-61.674002 278.07169,-180.00003 260.625,19.416417"
        id="path20" /><path
        style="opacity:1;fill:none;stroke:#000000;stroke-width:25;stroke-dasharray:none"
-       d="M 8.781465,173.12499 -130.00004,7.731617"
-       id="path21" /></g></svg>
+       d="M 326.25952,61.107511 415.37443,-130.00006"
+       id="path21" /><path
+       style="opacity:1;fill:none;stroke:#000000;stroke-width:25;stroke-dasharray:none"
+       d="M 8.780517,173.12386 -105.00003,131.71112 -18.026453,7.49997"
+       id="path25" /></g></svg>

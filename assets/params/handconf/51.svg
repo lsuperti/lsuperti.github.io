@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="530"
-   height="600"
-   viewBox="0 0 530 600"
+   width="500"
+   height="800"
+   viewBox="0 0 500 800"
    version="1.1"
    id="svg1"
    xml:space="preserve"
@@ -12,10 +12,18 @@
    xmlns:svg="http://www.w3.org/2000/svg"><defs
      id="defs1" /><g
      id="layer1"
-     transform="translate(84.999995,205)"><path
-       id="path1"
-       style="color:#000000;opacity:1;fill:#000000;fill-rule:evenodd;stroke-width:25;stroke-dasharray:none"
-       d="m 194.99705,-155.00004 c -57.85625,0 -108.261782,41.84425 -143.503208,105.278892 C 16.25241,13.713495 -5.00003,99.928511 -5.00003,195.00253 -5.00003,248.66126 1.77632,299.49 14.00964,345 H 40.066159 C 27.33398,300.16219 20.0018,249.15286 20.0018,195.00253 c 0,-91.32099 20.721786,-173.863573 53.341543,-232.579188 32.619757,-58.71562 75.957267,-92.421522 121.653707,-92.421522 45.69643,0 89.03982,33.705902 121.65957,92.421522 32.61975,58.715615 53.34154,141.258198 53.34154,232.579188 0,54.15033 -7.33218,105.15966 -20.06435,149.99747 h 26.05846 C 388.22558,299.49001 395,248.66126 395,195.00253 395,99.928511 373.74953,13.713495 338.50808,-49.721148 303.26664,-113.15579 252.8533,-155.00004 194.99705,-155.00004 Z" /><path
-       id="path9"
-       style="color:#000000;fill:#000000;fill-rule:evenodd;stroke-width:3.77953;-inkscape-stroke:none"
-       d="M -14.40433,190.8203 -37.96097,199.18358 13.77146,345 h 13.27148 l 11.775393,-4.17968 z" /></g></svg>
+     transform="translate(54.999995,355)"><circle
+       style="fill:none;stroke:#000000;stroke-width:25;stroke-opacity:1"
+       id="path2"
+       cx="194.99998"
+       cy="194.99998"
+       r="187.50002" /><path
+       style="opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:25"
+       d="m 194.99998,-305.00006 2.7e-4,312.50002"
+       id="path11" /><path
+       style="opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:25"
+       d="m 107.51188,-280.0087 -0.0162,309.179763"
+       id="path13" /><path
+       style="opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:25"
+       d="M 282.5,-280.00004 282.4879,29.162439"
+       id="path14" /></g></svg>
