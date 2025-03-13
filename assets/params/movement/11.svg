@@ -3,8 +3,8 @@
 
 <svg
    width="410"
-   height="450"
-   viewBox="0 0 410 450"
+   height="500"
+   viewBox="0 0 410 500"
    version="1.1"
    id="svg58221"
    xml:space="preserve"
@@ -12,13 +12,13 @@
    xmlns:svg="http://www.w3.org/2000/svg"><defs
      id="defs58218" /><g
      id="layer1"
-     transform="translate(-200.56524,-82.891179)"><path
+     transform="translate(-200.56524,-32.891179)"><path
        style="opacity:1;fill:none;stroke:#fd0000;stroke-width:25;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
        d="m 258.06519,387.89065 77.5,77.5 77.5,-77.5"
        id="path4" /><path
        style="fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:25;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
-       d="m 548.06522,145.39066 h -250 v 282.50002"
+       d="m 548.06522,145.39118 h -250 V 427.8912"
        id="path1" /><path
        style="fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:25;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
-       d="m 548.06522,220.39066 h -175 v 207.49996"
+       d="m 548.06522,220.39118 h -175 v 207.49996"
        id="path17" /></g></svg>

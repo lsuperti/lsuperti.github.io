@@ -147,14 +147,14 @@
         "min": {
             "left": -175,
             "right": 35,
-            "top": 100,
+            "top": 50,
             "bottom": 250
         },
 
         "max": {
             "left": -275,
             "right": 135,
-            "top": -100,
+            "top": -150,
             "bottom": 350
         }
     },
@@ -163,14 +163,14 @@
         "min": {
             "left": -35,
             "right": 175,
-            "top": 100,
+            "top": 50,
             "bottom": 250
         },
 
         "max": {
             "left": -135,
             "right": 275,
-            "top": -100,
+            "top": -150,
             "bottom": 350
         }
     },
@@ -204,6 +204,70 @@
             "right": 190,
             "top": -195,
             "bottom": 330
+        }
+    },
+
+    "14": {
+        "min": {
+            "left": -220,
+            "right": 210,
+            "top": -250,
+            "bottom": -125
+        },
+
+        "max": {
+            "left": -320,
+            "right": 310,
+            "top": -350,
+            "bottom": -25
+        }
+    },
+
+    "15": {
+        "min": {
+            "left": -210,
+            "right": 220,
+            "top": -250,
+            "bottom": -125
+        },
+
+        "max": {
+            "left": -310,
+            "right": 320,
+            "top": -350,
+            "bottom": -25
+        }
+    },
+
+    "16": {
+        "min": {
+            "left": -220,
+            "right": 180,
+            "top": -215,
+            "bottom": -125
+        },
+
+        "max": {
+            "left": -320,
+            "right": 280,
+            "top": -315,
+            "bottom": -25
+        }
+    },
+
+    "17": {
+        "min": {
+            "left": -180,
+            "right": 220,
+            "top": -215,
+            "bottom": -125
+        },
+
+        "max": {
+            "left": -280,
+            "right": 320,
+            "top": -315,
+            "bottom": -25
         }
     }
 }
