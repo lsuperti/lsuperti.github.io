@@ -285,5 +285,69 @@
             "top": -230,
             "bottom": 150
         }
+    },
+
+    "19": {
+        "min": {
+            "left": -220,
+            "right": 305,
+            "top": -45,
+            "bottom": 25
+        },
+
+        "max": {
+            "left": -320,
+            "right": 405,
+            "top": -145,
+            "bottom": 125
+        }
+    },
+
+    "20": {
+        "min": {
+            "left": -230,
+            "right": 305,
+            "top": -25,
+            "bottom": 25
+        },
+
+        "max": {
+            "left": -320,
+            "right": 405,
+            "top": -125,
+            "bottom": 125
+        }
+    },
+
+    "21": {
+        "min": {
+            "left": -300,
+            "right": 300,
+            "top": -115,
+            "bottom": 55
+        },
+
+        "max": {
+            "left": -400,
+            "right": 400,
+            "top": -215,
+            "bottom": 155
+        }
+    },
+
+    "22": {
+        "min": {
+            "left": -225,
+            "right": 265,
+            "top": -225,
+            "bottom": 225
+        },
+
+        "max": {
+            "left": -325,
+            "right": 365,
+            "top": -325,
+            "bottom": 325
+        }
     }
 }
