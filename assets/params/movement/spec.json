@@ -349,5 +349,53 @@
             "top": -325,
             "bottom": 325
         }
+    },
+
+    "23": {
+        "min": {
+            "left": -200,
+            "right": 200,
+            "top": -75,
+            "bottom": 150
+        },
+
+        "max": {
+            "left": -300,
+            "right": 300,
+            "top": -175,
+            "bottom": 250
+        }
+    },
+
+    "24": {
+        "min": {
+            "left": -200,
+            "right": 205,
+            "top": -185,
+            "bottom": 130
+        },
+
+        "max": {
+            "left": -300,
+            "right": 335,
+            "top": -285,
+            "bottom": 230
+        }
+    },
+
+    "25": {
+        "min": {
+            "left": -150,
+            "right": 230,
+            "top": -50,
+            "bottom": 55
+        },
+
+        "max": {
+            "left": -250,
+            "right": 330,
+            "top": -150,
+            "bottom": 155
+        }
     }
 }
