@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="630"
-   height="325"
-   viewBox="0 0 630 325"
+   width="725"
+   height="250"
+   viewBox="0 0 725 250"
    version="1.1"
    id="svg58221"
    xml:space="preserve"
@@ -12,15 +12,14 @@
    xmlns:svg="http://www.w3.org/2000/svg"><defs
      id="defs58218" /><g
      id="layer1"
-     transform="translate(-118.06531,82.109553)"><path
-       style="display:inline;opacity:1;fill:none;stroke:#fd0000;stroke-width:25.0001;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
-       d="M 686.75269,70.205948 667.34255,178.07538 559.47326,158.66459"
+     transform="translate(-4.1069384,-8.5064087)"><path
+       style="display:inline;opacity:1;fill:none;stroke:#ff0000;stroke-width:25.0001;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       d="M 647.9311,70.206182 667.34255,178.07538 559.47326,197.48617"
        id="path4" /><path
-       style="fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:25;stroke-linecap:round;stroke-dashoffset:2.5"
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:25;stroke-linecap:round;stroke-dashoffset:2.5;stroke-opacity:1"
+       id="path3"
+       d="M 68.144775,117.48565 A 200,150 0 0 1 324.10693,133.50641" /><path
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:25;stroke-linecap:round;stroke-dashoffset:2.5;stroke-opacity:1"
        id="path1"
-       d="m -677.04762,124.14066 a 287.5,287.5 0 0 1 248.98231,-143.750004 287.5,287.5 0 0 1 248.9823,143.749994"
-       transform="scale(-1,1)" /><path
-       style="fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:25;stroke-linecap:round;stroke-dashoffset:2.5"
-       id="path2"
-       d="m -612.09571,161.64066 a 212.5,212.5 0 0 1 184.0304,-106.250004 212.5,212.5 0 0 1 184.0304,106.249994"
+       d="m -616.69571,142.48254 a 200,150 0 0 1 143.68862,-52.265901 200,150 0 0 1 148.90016,43.289771"
        transform="scale(-1,1)" /></g></svg>

@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="410"
-   height="500"
-   viewBox="0 0 410 500"
+   width="630"
+   height="325"
+   viewBox="0 0 630 325"
    version="1.1"
    id="svg58221"
    xml:space="preserve"
@@ -12,13 +12,15 @@
    xmlns:svg="http://www.w3.org/2000/svg"><defs
      id="defs58218" /><g
      id="layer1"
-     transform="translate(-200.56524,-32.891179)"><path
-       style="opacity:1;fill:none;stroke:#fd0000;stroke-width:25;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
-       d="m 258.06519,387.89065 77.5,77.5 77.5,-77.5"
+     transform="translate(-118.06531,82.109553)"><path
+       style="display:inline;opacity:1;fill:none;stroke:#fd0000;stroke-width:25.0001;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       d="M 686.75269,70.205948 667.34255,178.07538 559.47326,158.66459"
        id="path4" /><path
-       style="fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:25;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
-       d="m 548.06522,145.39118 h -250 V 427.8912"
-       id="path1" /><path
-       style="fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:25;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
-       d="m 548.06522,220.39118 h -175 v 207.49996"
-       id="path17" /></g></svg>
+       style="fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:25;stroke-linecap:round;stroke-dashoffset:2.5"
+       id="path1"
+       d="m -677.04762,124.14066 a 287.5,287.5 0 0 1 248.98231,-143.750004 287.5,287.5 0 0 1 248.9823,143.749994"
+       transform="scale(-1,1)" /><path
+       style="fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:25;stroke-linecap:round;stroke-dashoffset:2.5"
+       id="path2"
+       d="m -612.09571,161.64066 a 212.5,212.5 0 0 1 184.0304,-106.250004 212.5,212.5 0 0 1 184.0304,106.249994"
+       transform="scale(-1,1)" /></g></svg>
