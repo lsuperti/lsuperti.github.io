@@ -11,14 +11,10 @@
    xmlns:svg="http://www.w3.org/2000/svg">
   <defs
      id="defs1" />
-  <g
-     id="layer1"
-     transform="translate(54.999995,54.999995)">
-    <circle
-       style="opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:25"
-       id="path4"
-       cx="494.99994"
-       cy="494.99994"
-       r="487.50006" />
-  </g>
+  <circle
+     style="opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:25"
+     id="path4"
+     cx="550"
+     cy="550"
+     r="487.5" />
 </svg>

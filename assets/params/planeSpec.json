@@ -1,0 +1,15 @@
+{
+    "min": {
+        "left": -75,
+        "right": 75,
+        "top": -5,
+        "bottom": 5
+    },
+
+    "max": {
+        "left": -125,
+        "right": 125,
+        "top": -40,
+        "bottom": 40
+    }
+}

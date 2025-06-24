@@ -4,19 +4,16 @@
 <svg
    width="330"
    height="295"
-   viewBox="0 0 330.00001 295"
+   viewBox="0 0 330 295"
    version="1.1"
    id="svg1"
    xml:space="preserve"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg"><defs
-     id="defs1" /><g
-     id="layer1"
-     transform="translate(-329.99985,-310.00025)"><path
-       style="fill:none;stroke:#000000;stroke-width:5.03679;stroke-dasharray:none"
-       id="path30"
-       d="M 52.916666,3.3072891 100.58722,85.87512 5.246105,85.875117 Z"
-       transform="matrix(2.4817395,0,0,2.4817415,363.67465,350.18421)" /><path
-       style="opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:12.5;stroke-dasharray:none"
-       d="m 495.00003,370.89706 v 62.0515"
-       id="path11" /></g></svg>
+     id="defs1" /><path
+     style="fill:none;stroke:#000000;stroke-width:12.5;stroke-dasharray:none"
+     id="path30"
+     d="m 165,48.392047 118.3059,204.912013 -236.611814,-1e-5 z" /><path
+     style="opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:12.5;stroke-dasharray:none"
+     d="m 165,60.89706 v 62.0515"
+     id="path11" /></svg>

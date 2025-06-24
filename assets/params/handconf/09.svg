@@ -11,13 +11,8 @@
    xmlns:svg="http://www.w3.org/2000/svg">
   <defs
      id="defs1" />
-  <g
-     id="layer1"
-     transform="translate(14.552081,22.489585)">
-    <path
-       style="fill:none;stroke:#000000;stroke-width:6.68218;stroke-dasharray:none"
-       id="path30"
-       d="M 52.916666,3.3072891 100.58722,85.87512 5.246105,85.875117 Z"
-       transform="matrix(3.7412926,0,0,3.7412926,37.471026,39.196733)" />
-  </g>
+  <path
+     style="fill:none;stroke:#000000;stroke-width:25;stroke-dasharray:none"
+     id="path30"
+     d="m 250,74.059854 178.34949,308.910416 -356.699009,-1e-5 z" />
 </svg>

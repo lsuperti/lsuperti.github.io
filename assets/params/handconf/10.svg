@@ -10,10 +10,7 @@
    xml:space="preserve"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg"><defs
-     id="defs1" /><g
-     id="layer1"
-     style="display:inline"
-     transform="translate(14.552083,-18.520833)"><path
-       style="opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:25;stroke-miterlimit:100;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="M 35.447925,81.020817 H 422.94791 V 206.02081 H 35.447925"
-       id="path6" /></g></svg>
+     id="defs1" /><path
+     style="display:inline;opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:25;stroke-miterlimit:100;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     d="M 50,62.5 H 437.5 V 187.5 H 50"
+     id="path6" /></svg>

@@ -10,9 +10,7 @@
    xml:space="preserve"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg"><defs
-     id="defs1" /><g
-     id="layer1"
-     transform="translate(-155,-140)"><path
-       style="opacity:1;fill:none;stroke:#000000;stroke-width:25;stroke-dasharray:none"
-       d="M 801.9308,394.99997 494.99998,795 215.21535,195"
-       id="path5" /></g></svg>
+     id="defs1" /><path
+     style="opacity:1;fill:none;stroke:#000000;stroke-width:25;stroke-dasharray:none"
+     d="M 646.9308,256 341,655 60.21535,55"
+     id="path5" /></svg>

@@ -11,19 +11,15 @@
    xmlns:svg="http://www.w3.org/2000/svg">
   <defs
      id="defs1" />
-  <g
-     id="layer1"
-     transform="translate(14.552081,14.552086)">
-    <rect
-       style="opacity:1;fill:none;stroke:#000000;stroke-width:25.0002;stroke-dasharray:none"
-       id="rect4"
-       width="374.99997"
-       height="375.00003"
-       x="47.947914"
-       y="47.947922" />
-    <path
-       style="opacity:1;fill:none;stroke:#000000;stroke-width:25.0002;stroke-dasharray:none"
-       d="M 47.947915,235.44794 H 235.44791"
-       id="path6" />
-  </g>
+  <rect
+     style="opacity:1;fill:none;stroke:#000000;stroke-width:25;stroke-dasharray:none"
+     id="rect4"
+     width="375"
+     height="375"
+     x="62.5"
+     y="62.5" />
+  <path
+     style="opacity:1;fill:none;stroke:#000000;stroke-width:25;stroke-dasharray:none"
+     d="M 62.5,250 H 250"
+     id="path6" />
 </svg>
