@@ -1,1 +1,21 @@
-<svg width="16" height="16" viewBox="0 0 16 16" version="1.1" id="svg1" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg"> <defs id="defs1" /> <g id="layer1"> <circle style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#e5e5e5;stroke-width:3;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1" id="path1" cx="11.313708" cy="8.8817842e-16" r="5" transform="rotate(45)" /> <path style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#e5e5e5;stroke-width:3;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1" d="M 11.535533,4.4644653 14.939338,1.0606602" id="path2" /> <path style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#e5e5e5;stroke-width:3;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1" d="m 11.535533,11.535534 3.403806,3.403806" id="path3" /> <path style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#e5e5e5;stroke-width:3;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1" d="M 4.4644655,4.4644665 1.0606602,1.0606612" id="path4" /> <path style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#e5e5e5;stroke-width:3;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1" d="M 4.4644653,11.535533 1.0606602,14.939338" id="path5" /> </g></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="20"
+   height="20"
+   viewBox="0 0 20 20.000001"
+   version="1.1"
+   id="svg1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <g
+     id="layer1">
+    <path
+       id="path1"
+       style="color:#000000;fill:#e5e5e5;fill-opacity:1;fill-rule:evenodd;stroke:#121212;stroke-width:2.124;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       d="m 3.7552871,1.5022121 -2.253076,2.253076 2.6244392,2.6244392 c -1.3560971,2.2089039 -1.3558654,5.0315387 0,7.2405487 l -2.6244392,2.624439 2.2530757,2.253075 2.6223647,-2.622365 c 2.2096261,1.35733 5.0349655,1.357096 7.2446965,0 l 2.622366,2.622365 2.253075,-2.253075 -2.622365,-2.622366 c 1.357096,-2.209731 1.35733,-5.0350704 0,-7.2446965 L 18.497789,3.7552878 16.244714,1.5022121 13.620275,4.1266513 c -2.20901,-1.3558654 -5.0316448,-1.3560971 -7.2405487,0 z M 10,6.2718452 c 0.948127,2e-7 1.895976,0.3669547 2.628589,1.0995672 1.465227,1.4652274 1.465227,3.7919516 0,5.2571776 -1.465226,1.465227 -3.7919502,1.465227 -5.2571776,0 -1.465226,-1.465226 -1.465226,-3.7919508 4e-7,-5.2571772 C 8.104025,6.6387995 9.0518736,6.2718454 10,6.2718452 Z" />
+  </g>
+</svg>
