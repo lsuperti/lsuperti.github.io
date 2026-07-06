@@ -12,14 +12,10 @@
   <defs
      id="defs1" />
   <rect
-     style="opacity:1;fill:none;stroke:#e5e5e5;stroke-width:25;stroke-dasharray:none"
-     id="rect4"
+     style="fill:none;fill-rule:evenodd;stroke:#e5e5e5;stroke-width:25;stroke-linejoin:miter;stroke-dasharray:none;stroke-dashoffset:15;stroke-opacity:1"
+     id="rect18"
      width="375"
      height="375"
      x="62.5"
      y="62.5" />
-  <path
-     style="opacity:1;fill:none;stroke:#e5e5e5;stroke-width:25;stroke-dasharray:none"
-     d="M 62.5,250 H 250"
-     id="path6" />
 </svg>
